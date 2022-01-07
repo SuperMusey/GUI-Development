@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\MyForm.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\MyForm.h(61,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Course.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CPPNet.vcxproj -> C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\x64\Debug\CPPNet.exe

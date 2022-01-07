@@ -1,0 +1,2 @@
+﻿  MyForm.cpp
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\MyForm.cpp : fatal error C1041: cannot open program database 'C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Release\vc142.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS

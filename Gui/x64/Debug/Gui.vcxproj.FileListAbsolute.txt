@@ -1,0 +1,4 @@
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\Gui.vcxproj.AssemblyReference.cache
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\Gui.MyForm.resources
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\Gui.vcxproj.GenerateResource.cache
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\Gui.exe

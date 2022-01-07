@@ -1,0 +1,4 @@
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\x64\Debug\CPPNet.vcxproj.AssemblyReference.cache
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\x64\Debug\CPPNet.MyForm.resources
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\x64\Debug\CPPNet.vcxproj.GenerateResource.cache
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\CPPNet\x64\Debug\CPPNet.exe
