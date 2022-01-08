@@ -1,2 +1,6 @@
 ﻿  MyForm.cpp
-C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\MyForm.cpp : fatal error C1041: cannot open program database 'C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\vc142.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\MyForm.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\MyForm.h(61,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\MyForm.h(84,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Course.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Gui.vcxproj -> C:\Users\Rishav\Google Drive\Rishav\BU\ENGEC327\Web Test\GUI-Development\Gui\x64\Debug\Gui.exe
